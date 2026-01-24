@@ -1,22 +1,46 @@
-# CodSoft C++ Internship
+# CodSoft C++ Programming Internship
 
-This repository contains tasks completed as part of the
-CodSoft C++ Programming Internship.
+This repository contains all the tasks completed as part of the
+**CodSoft C++ Programming Internship**.
+
+---
 
 ## Task 1: Number Guessing Game
-- Generates a random number between 1 and 100
+- Generates a random number
 - User guesses the number
-- Provides feedback (too high / too low)
-- Implemented using a while loop
+- Program gives hints (Too High / Too Low)
+- Implemented using loops and conditions
 
-## Task 2: Simple Calculator
-- Performs basic arithmetic operations
-- Addition, Subtraction, Multiplication, Division
-- Menu-driven program using while loop and switch-case
+---
+
+##  Task 2: Simple Calculator
+- Menu-driven calculator
+- Supports:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Uses `while` loop and `switch-case`
 - Handles division by zero
 
-## Technologies Used
-- C++
+---
 
+## Task 3: Tic-Tac-Toe Game
+- Console-based two-player game
+- Built using **Object-Oriented Programming**
+- Uses:
+  - Board class (grid, display, win/draw logic)
+  - Game class (player turns, input handling)
+- Features:
+  - Box-style grid display
+  - Win and draw detection
+  - Replay option
+
+##  Technologies Used
+- C++
+- Object-Oriented Programming (OOPS)
 ## Author
-Samala Vijay
+**Samala Vijay**
+
+## GitHub Repository
+All tasks are organized in separate folders for clarity.
